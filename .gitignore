@@ -1,0 +1,15 @@
+# Api key
+.env
+
+# Google ADK config
+.adk/
+
+# Vector Database storage folder
+roblox_memory/
+
+# Just cache
+__pycache__/
+*.pyc
+
+# temporary runtime screenshots
+current_frame.jpg
